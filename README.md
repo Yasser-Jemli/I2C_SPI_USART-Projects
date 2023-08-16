@@ -1,1 +1,1 @@
-# I2C_SPI_USART-Projects
+# I2C_SPI_USART Projects
